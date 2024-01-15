@@ -1,0 +1,44 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+.App{
+    font-family: 'Inter', sans-serif;
+}
+.logo_color{
+    color: #1D617A;
+}
+.InitailFont{
+    font-family: 'Inter', sans-serif;
+}
+
+.total_navibar{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+}
+
+
+.total_footer{
+  bottom: 0;
+  align-items: bottom;
+}
+
+
+::-webkit-scrollbar {
+    width: 8px;    
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #e1e1e1;
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #b3b3b3;
+  }
